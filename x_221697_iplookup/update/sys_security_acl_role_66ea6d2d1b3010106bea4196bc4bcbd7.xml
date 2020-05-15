@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-15 13:34:43</sys_created_on>
+        <sys_id>66ea6d2d1b3010106bea4196bc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_221697_iplookup_ipaddressinfo.x_221697_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_221697_iplookup">6e60db641be410106bea4196bc4bcb85</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">6e60db641be410106bea4196bc4bcb85</sys_scope>
+        <sys_security_acl display_value="x_221697_iplookup_ipaddressinfo">e6ea6d2d1b3010106bea4196bc4bcbd4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_66ea6d2d1b3010106bea4196bc4bcbd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-15 13:34:43</sys_updated_on>
+        <sys_user_role display_value="x_221697_iplookup.ipaddressinfo_user" name="x_221697_iplookup.ipaddressinfo_user">9eea6d2d1b3010106bea4196bc4bcb52</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
